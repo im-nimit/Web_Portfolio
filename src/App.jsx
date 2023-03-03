@@ -27,12 +27,12 @@ const siteProps = {
   name: "Nimit A Thaker",
   title: "Technocrat | Developer | Penetration Tester | Cyber Security Professional",
   email: "nimitathaker@gmail.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  gitHub: "im-nimit",
+  instagram: "",
+  linkedIn: "nimit-thaker",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
